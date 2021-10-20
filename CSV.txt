@@ -1,0 +1,6 @@
+name,release date,genre
+Titaniс,1997,drama
+The Fast and the Furious,2001,thriller
+The Matrix,1999,fantastic
+Home Alone,1990,comedy
+Kill Bill,2003,crime
